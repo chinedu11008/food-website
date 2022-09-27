@@ -1,5 +1,5 @@
 let menu = document.querySelector('#menu-bar');
-let navbar =  
+let navbar =  document.querySelector('.navbar')
 
 menu.onclick = () =>{
 
